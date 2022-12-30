@@ -1,3 +1,8 @@
+/*****************************************************
+Correcteur: Yannick GOUGUIA
+Revoir cet exercice, INCOMPLEY
+*****************************************************/
+
 let c;
 let a = 34;
 let b = 21;
